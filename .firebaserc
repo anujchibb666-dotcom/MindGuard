@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "mindguard-web-2026"
+  },
+  "targets": {
+    "mindguard-web-2026": {
+      "hosting": {
+        "app": [
+          "mindguard-web-2026"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
